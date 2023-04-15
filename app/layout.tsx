@@ -8,7 +8,9 @@ const buildConfig = getBuildConfig();
 
 export const metadata = {
   title: "Chat Cognitiev",
-  description: "Your Own GPT4 Assisant.",
+
+  description: "Your Ultimate AI Friend.",
+
   appleWebApp: {
     title: "Chat Cognitiev",
     statusBarStyle: "default",
